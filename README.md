@@ -8,3 +8,10 @@
 - ⚡ Fun fact: I love to gym and play sports.
 
 ---
+
+### 🤝 Connect with me:
+
+[<img align="left" alt="ramanshsangal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
+
+[<img align="left" alt="ramanshsangal | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>][gmail]
+<br>
