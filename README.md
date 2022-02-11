@@ -2,7 +2,6 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/ramanshsangal/)](https://linkedin.com/in/ramanshsangal/)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sangalramansh@gmail.com)](mailto:sangalramansh@gmail.com)
-![Pronouns](https://img.shields.io/badge/Pronouns-He%2FHim-brightgreen?style=flat)
 
 <p align="center"> :octocat: <b><a href="https://ramansh-portfolio.netlify.app/">Website</a> / <a href="https://drive.google.com/file/d/1FrGreSjjDMptMjdcLRgH1b59bIV_IqBf/view?usp=sharing">Resume</a> 
 
