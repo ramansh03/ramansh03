@@ -8,10 +8,9 @@
 
 ## About Me :wave:
 
-I am a budding data scientist and an analyst basically working in the field of Data Science and Data Analytics for more than a year now.Its the data which controls the world and it fascinated me about chosing data science as my main domain.
+Currently I am a student of ABES Engineering College pursuing B.Tech from CSE Branch. I am also a MACHINE LEARNING engineer with fluent hands-on experience of SkLearn framework and other supporting python libraries along with model deployment.
 
-Over this period of time after learning new skills and working on data, I have realized that as long as the data is cleaned and good to use, you are good to go!!
-
+Passionate about coding and ability to perform well in a team. Loves to learn skills that help me to be a better person physically and mentally.
 
 Skills: C/Python/Numpy/Seaborn/Matplotlib/Pandas/SkLearn/Tensorflow/Heroku
 
